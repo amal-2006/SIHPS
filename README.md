@@ -25,7 +25,7 @@ Develop a web or mobile application that allows users to easily locate nearby e-
 4. Educational Institutions: Schools and universities can educate students and staff about the importance of e-waste recycling and provide them with a tool to locate nearby facilities.
 
 ## Technology Stack
-Frontend: React.js for web or React Native for mobile application development.
+#### Frontend: React.js for web or React Native for mobile application development.
 
 Backend: Node.js with Express.js for RESTful API development.
 
